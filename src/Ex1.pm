@@ -14,7 +14,7 @@ try {
 	$inputFile = Bio::SeqIO->new(-file => "$ARGV[0]", -format => 'Genbank');
 	
 	# Reading the 6 frames and translating them to amino
-	my @frames = Bio::SeqUtils->translate_6frames($inputFile->next_seq());
+	@frames = Bio::SeqUtils->translate_6frames($inputFile->next_seq());
 
 
 	try {
