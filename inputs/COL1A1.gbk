@@ -1,0 +1,708 @@
+LOCUS       NC_000017              17553 bp    DNA     linear   CON 12-MAR-2015
+DEFINITION  Homo sapiens chromosome 17, GRCh38.p2 Primary Assembly.
+ACCESSION   NC_000017 REGION: complement(50184096..50201648) GPC_000001309
+VERSION     NC_000017.11  GI:568815581
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.28
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 17553)
+  AUTHORS   Zody,M.C., Garber,M., Adams,D.J., Sharpe,T., Harrow,J.,
+            Lupski,J.R., Nicholson,C., Searle,S.M., Wilming,L., Young,S.K.,
+            Abouelleil,A., Allen,N.R., Bi,W., Bloom,T., Borowsky,M.L.,
+            Bugalter,B.E., Butler,J., Chang,J.L., Chen,C.K., Cook,A., Corum,B.,
+            Cuomo,C.A., de Jong,P.J., DeCaprio,D., Dewar,K., FitzGerald,M.,
+            Gilbert,J., Gibson,R., Gnerre,S., Goldstein,S., Grafham,D.V.,
+            Grocock,R., Hafez,N., Hagopian,D.S., Hart,E., Norman,C.H.,
+            Humphray,S., Jaffe,D.B., Jones,M., Kamal,M., Khodiyar,V.K.,
+            LaButti,K., Laird,G., Lehoczky,J., Liu,X., Lokyitsang,T.,
+            Loveland,J., Lui,A., Macdonald,P., Major,J.E., Matthews,L.,
+            Mauceli,E., McCarroll,S.A., Mihalev,A.H., Mudge,J., Nguyen,C.,
+            Nicol,R., O'Leary,S.B., Osoegawa,K., Schwartz,D.C., Shaw-Smith,C.,
+            Stankiewicz,P., Steward,C., Swarbreck,D., Venkataraman,V.,
+            Whittaker,C.A., Yang,X., Zimmer,A.R., Bradley,A., Hubbard,T.,
+            Birren,B.W., Rogers,J., Lander,E.S. and Nusbaum,C.
+  TITLE     DNA sequence of human chromosome 17 and analysis of rearrangement
+            in the human lineage
+  JOURNAL   Nature 440 (7087), 1045-1049 (2006)
+   PUBMED   16625196
+REFERENCE   2  (bases 1 to 17553)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   3  (bases 1 to 17553)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000679.2.
+            On Feb 3, 2014 this sequence version replaced gi:224589808.
+            Assembly Name: GRCh38.p2 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            http://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Homo sapiens Annotation Release 107
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..17553
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+     gene            1..17553
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /note="collagen, type I, alpha 1; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq,Gnomon."
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     mRNA            join(1..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,6171..6215,
+                     6319..6417,6549..6602,6821..6928,7023..7076,7202..7300,
+                     7466..7519,7608..7706,8602..8655,8799..8852,8956..9009,
+                     9121..9174,9625..9669,9763..9861,10159..10266,
+                     10725..10832,11053..11106,11269..11322,11541..11648,
+                     11737..11790,11917..11970,12111..12272,12374..12481,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..17553)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /product="collagen, type I, alpha 1, transcript variant
+                     X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 7 mRNAs, 1849 ESTs, 10 Proteins,
+                     and 100% coverage of the annotated genomic feature by
+                     RNAseq alignments, including 71 samples with support for
+                     all annotated introns"
+                     /transcript_id="XM_011524341.1"
+                     /db_xref="GI:767993598"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     mRNA            join(1..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,5450..5494,
+                     5673..5726,5984..6082,6171..6215,6319..6417,6549..6602,
+                     6821..6928,7023..7076,7202..7300,7466..7519,7608..7706,
+                     8602..8655,8799..8852,8956..9009,9121..9174,9625..9669,
+                     9763..9861,10159..10266,10725..10832,11053..11106,
+                     11269..11322,11541..11648,11737..11790,11917..11970,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..17553)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /product="collagen, type I, alpha 1, transcript variant
+                     X2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 8 mRNAs, 1853 ESTs, 9 Proteins,
+                     and 100% coverage of the annotated genomic feature by
+                     RNAseq alignments, including 95 samples with support for
+                     all annotated introns"
+                     /transcript_id="XM_005257058.3"
+                     /db_xref="GI:767993600"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     mRNA            join(2..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,8956..9009,
+                     9121..9174,9625..9669,9763..9861,10159..10266,
+                     10725..10832,11053..11106,11269..11322,11541..11648,
+                     11737..11790,11917..11970,12111..12272,12374..12481,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..17553)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /product="collagen, type I, alpha 1, transcript variant
+                     X3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 5 mRNAs, 1706 ESTs, 10 Proteins,
+                     and 100% coverage of the annotated genomic feature by
+                     RNAseq alignments, including 98 samples with support for
+                     all annotated introns"
+                     /transcript_id="XM_005257059.3"
+                     /db_xref="GI:767993601"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     mRNA            join(10..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,5450..5494,
+                     5673..5726,5984..6082,6171..6215,6319..6417,6549..6602,
+                     6821..6928,7023..7076,7202..7300,7466..7519,7608..7706,
+                     8602..8655,8799..8852,8956..9009,9121..9174,9625..9669,
+                     9763..9861,10159..10266,10725..10832,11053..11106,
+                     11269..11322,11541..11648,11737..11790,11917..11970,
+                     12111..12272,12374..12481,12639..12746,12854..12907,
+                     13012..13119,13500..13553,13666..13773,14112..14165,
+                     14527..14634,14727..15009,15142..15332,15629..15871,
+                     16001..17553)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /product="collagen, type I, alpha 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000088.3"
+                     /db_xref="GI:110349771"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+     CDS             join(136..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,8956..9009,
+                     9121..9174,9625..9669,9763..9861,10159..10266,
+                     10725..10832,11053..11106,11269..11322,11541..11648,
+                     11737..11790,11917..11970,12111..12272,12374..12481,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..16147)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="collagen alpha-1(I) chain isoform X3"
+                     /protein_id="XP_005257116.2"
+                     /db_xref="GI:578830424"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+                     /translation="MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNG
+                     LRYHDRDVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESP
+                     TDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFA
+                     PQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMG
+                     PRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGA
+                     KGDAGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGAPGPAGPAGERGEQGPAGSP
+                     GFQGLPGPAGPPGEAGKPGEQGVPGDLGAPGPSGARGERGFPGERGVQGPPGPAGPRG
+                     ANGAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPGPKGDRGDAGPKGADGS
+                     PGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGAPGDRGEPGPPGPAGFA
+                     GPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPPGPIGNVGAPGAKGARGSAGPPG
+                     ATGFPGAAGRVGPPGPSGNAGPPGPPGPAGKEGGKGPRGETGPAGRPGEVGPPGPPGP
+                     AGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPS
+                     GASGERGPPGPMGPPGLAGPPGESGREGAPGAEGSPGRDGSPGAKGDRGETGPAGPPG
+                     APGAPGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAGPQGPRGDKGETGEQGD
+                     RGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAPGKDGLNGLPGPI
+                     GPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSFLPQPPQEKAHDGGRYYRADD
+                     ANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCRDLKMCHSDWKSGEYWIDP
+                     NQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKDKRHVWFGESMTDGFQF
+                     EYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKKALLLQGSN
+                     EIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPIIDVAPLDVGAPDQ
+                     EFGFDVGPVCFL"
+     CDS             join(136..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,6171..6215,
+                     6319..6417,6549..6602,6821..6928,7023..7076,7202..7300,
+                     7466..7519,7608..7706,8602..8655,8799..8852,8956..9009,
+                     9121..9174,9625..9669,9763..9861,10159..10266,
+                     10725..10832,11053..11106,11269..11322,11541..11648,
+                     11737..11790,11917..11970,12111..12272,12374..12481,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..16147)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="collagen alpha-1(I) chain isoform X1"
+                     /protein_id="XP_011522643.1"
+                     /db_xref="GI:767993599"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+                     /translation="MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNG
+                     LRYHDRDVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESP
+                     TDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFA
+                     PQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMG
+                     PRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGA
+                     KGDAGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGAPGPAGNPGADGQPGAKGAN
+                     GAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGEPGPVGVQG
+                     PPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADGVAGPKGPAGERGSPGP
+                     AGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGAR
+                     GQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGPAGKDGEAGAQGPPGPAGPAGERG
+                     EQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDLGAPGPSGARGERGFPGERGVQGP
+                     PGPAGPRGANGAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPGPKGDRGDA
+                     GPKGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGAPGDRGEPG
+                     PPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPPGPIGNVGAPGAKGA
+                     RGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGPAGKEGGKGPRGETGPAGRPGEV
+                     GPPGPPGPAGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGFPGLPGPSG
+                     EPGKQGPSGASGERGPPGPMGPPGLAGPPGESGREGAPGAEGSPGRDGSPGAKGDRGE
+                     TGPAGPPGAPGAPGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAGPQGPRGDK
+                     GETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAPGKDG
+                     LNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSFLPQPPQEKAHDG
+                     GRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCRDLKMCHSDWK
+                     SGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKDKRHVWFGE
+                     SMTDGFQFEYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKK
+                     ALLLQGSNEIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPIIDVAP
+                     LDVGAPDQEFGFDVGPVCFL"
+     CDS             join(136..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,5450..5494,
+                     5673..5726,5984..6082,6171..6215,6319..6417,6549..6602,
+                     6821..6928,7023..7076,7202..7300,7466..7519,7608..7706,
+                     8602..8655,8799..8852,8956..9009,9121..9174,9625..9669,
+                     9763..9861,10159..10266,10725..10832,11053..11106,
+                     11269..11322,11541..11648,11737..11790,11917..11970,
+                     12639..12746,12854..12907,13012..13119,13500..13553,
+                     13666..13773,14112..14165,14527..14634,14727..15009,
+                     15142..15332,15629..15871,16001..16147)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="collagen alpha-1(I) chain isoform X2"
+                     /protein_id="XP_005257115.2"
+                     /db_xref="GI:578830422"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+                     /translation="MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNG
+                     LRYHDRDVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESP
+                     TDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFA
+                     PQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMG
+                     PRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGA
+                     KGDAGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGAPGPAGARGNDGATGAAGPP
+                     GPTGPAGPPGFPGAVGAKGEAGPQGPRGSEGPQGVRGEPGPPGPAGAAGPAGNPGADG
+                     QPGAKGANGAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGE
+                     PGPVGVQGPPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADGVAGPKGPA
+                     GERGSPGPAGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPG
+                     PPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGPAGKDGEAGAQGPPGP
+                     AGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDLGAPGPSGARGERGFP
+                     GERGVQGPPGPAGPRGANGAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPG
+                     PKGDRGDAGPKGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGA
+                     PGDRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPPGPIGNV
+                     GAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGEPGKQGPSGASGERGPPGPMGPPG
+                     LAGPPGESGREGAPGAEGSPGRDGSPGAKGDRGETGPAGPPGAPGAPGAPGPVGPAGK
+                     SGDRGETGPAGPAGPVGPVGARGPAGPQGPRGDKGETGEQGDRGIKGHRGFSGLQGPP
+                     GPPGSPGEQGPSGASGPAGPRGPPGSAGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVG
+                     PPGPPGPPGPPGPPSAGFDFSFLPQPPQEKAHDGGRYYRADDANVVRDRDLEVDTTLK
+                     SLSQQIENIRSPEGSRKNPARTCRDLKMCHSDWKSGEYWIDPNQGCNLDAIKVFCNME
+                     TGETCVYPTQPSVAQKNWYISKNPKDKRHVWFGESMTDGFQFEYGGQGSDPADVAIQL
+                     TFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKKALLLQGSNEIEIRAEGNSRFTYSV
+                     TVDGCTSHTGAWGKTVIEYKTTKTSRLPIIDVAPLDVGAPDQEFGFDVGPVCFL"
+     CDS             join(136..238,1702..1896,2059..2093,2196..2231,2322..2423,
+                     3145..3216,3444..3488,3647..3700,3864..3917,4416..4469,
+                     4586..4639,4979..5032,5121..5165,5282..5335,5450..5494,
+                     5673..5726,5984..6082,6171..6215,6319..6417,6549..6602,
+                     6821..6928,7023..7076,7202..7300,7466..7519,7608..7706,
+                     8602..8655,8799..8852,8956..9009,9121..9174,9625..9669,
+                     9763..9861,10159..10266,10725..10832,11053..11106,
+                     11269..11322,11541..11648,11737..11790,11917..11970,
+                     12111..12272,12374..12481,12639..12746,12854..12907,
+                     13012..13119,13500..13553,13666..13773,14112..14165,
+                     14527..14634,14727..15009,15142..15332,15629..15871,
+                     16001..16147)
+                     /gene="COL1A1"
+                     /gene_synonym="OI4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="collagen alpha-1(I) chain preproprotein"
+                     /protein_id="NP_000079.2"
+                     /db_xref="GI:110349772"
+                     /db_xref="CCDS:CCDS11561.1"
+                     /db_xref="GeneID:1277"
+                     /db_xref="HGNC:HGNC:2197"
+                     /db_xref="MIM:120150"
+                     /translation="MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNG
+                     LRYHDRDVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESP
+                     TDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFA
+                     PQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMG
+                     PRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGA
+                     KGDAGPAGPKGEPGSPGENGAPGQMGPRGLPGERGRPGAPGPAGARGNDGATGAAGPP
+                     GPTGPAGPPGFPGAVGAKGEAGPQGPRGSEGPQGVRGEPGPPGPAGAAGPAGNPGADG
+                     QPGAKGANGAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGE
+                     PGPVGVQGPPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADGVAGPKGPA
+                     GERGSPGPAGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPDGKTGPPGPAGQDGRPG
+                     PPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGVPGPPGAVGPAGKDGEAGAQGPPGP
+                     AGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGEQGVPGDLGAPGPSGARGERGFP
+                     GERGVQGPPGPAGPRGANGAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPG
+                     PKGDRGDAGPKGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGA
+                     PGDRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPPGPIGNV
+                     GAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGPAGKEGGKGPRGETG
+                     PAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPGPQGIAGQRGVVGLPGQRGERGF
+                     PGLPGPSGEPGKQGPSGASGERGPPGPMGPPGLAGPPGESGREGAPGAEGSPGRDGSP
+                     GAKGDRGETGPAGPPGAPGAPGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAG
+                     PQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGS
+                     AGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSFLPQP
+                     PQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCRDL
+                     KMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKD
+                     KRHVWFGESMTDGFQFEYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMD
+                     QQTGNLKKALLLQGSNEIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSR
+                     LPIIDVAPLDVGAPDQEFGFDVGPVCFL"
+ORIGIN      
+        1 ccgggccagt cgtcggagca gacgggagtt tctcctcggg gtcggagcag gaggcacgcg
+       61 gagtgtgagg ccacgcatga gcggacgcta accccctccc cagccacaaa gagtctacat
+      121 gtctagggtc tagacatgtt cagctttgtg gacctccggc tcctgctcct cttagcggcc
+      181 accgccctcc tgacgcacgg ccaagaggaa ggccaagtcg agggccaaga cgaagacagt
+      241 aagtcccaaa cttttgggag tgcaaggata ctctatatcg cgccttgcgc ttggtcccgg
+      301 gggccgcggc ttaaaacgag acgtggatga tccggagact cgggaatgga agggagatga
+      361 tgagggctct tcctcggcgc cctgagacag gagggagctc accctggggc gaggttgggg
+      421 ttgaacgcgc cccgggagcg ggaggtgagg gtggagcgcg gcgtgagttg gtgcaagaga
+      481 gaatcccgag cgcgcaaccg gggaagtggg gatctgggtg cagagtgagg aaagcacgtc
+      541 gaagatggga tgggggcgcc gagcggggca tttgaagccc aagatgtaga agcaatcagg
+      601 aaggccgtgg gatgattcat aaggaaagat tgccctctct gcgggctaga gtgttgctgg
+      661 ggccgtgggg gtgctgggca gccgcggagg gggtgcggag cgtgggcggg tggaggatga
+      721 gaaactttgg cgcggactcg gcggggcggg gtccttgcgc cccctgctga ccgatgctga
+      781 gcactgcgtc tcccggtcca acgcttactg gggcaggagc cggagcggga agacccgggt
+      841 tattgctggg tgcggacccc cacctctaga tctggaaagt aaagccaggg atggggcagc
+      901 ccaagcctct taaagaggta gtcgggccgg tgaggtcggc cccgccccgg ccccattgct
+      961 tagcgttgcc cgacacctag tggccgtctg gggagccgct agcgcggtgg gagtggttag
+     1021 ctaacttctg gactatttgc ggactttttg gttctttggc taaaagtgac ctggaggcat
+     1081 tggctggctt tgggggactg gggatggccc cgagagcggg cttttaagat gtctaggtgc
+     1141 tggaggttag ggtgtctcct aattttgagg tacatttcaa gtcttggggg ggcctccctt
+     1201 ccaatcagcc gctcccattc tcctagcccc gcccccgcca ccccacctgc ccagggaatg
+     1261 ggggcgggat gagggctgga cctcccttct ctcctccctc gccctcctcc tgtctctacc
+     1321 acgcaagcca ctccccacga gcctgccctc ccgatggggc ccctcctatt ctccccccgc
+     1381 cctccccctc tcaccctgtg gtttttattt cacttggctt cagcgccaat gggctgaggt
+     1441 tggagttgga agccaccgcg gactaaagct ttgtttaaat tcctgagaac tggaaagagt
+     1501 tacagcctcc ctggccaggc gcctcggcgc tgtcacccgc gctgatgagg agcaggcgag
+     1561 cttttaagga tttgaggaaa gaagaacggg gggaggggcg ggaagtgaaa aatccaagtg
+     1621 tgcctcttag acccggggga aaggtggtta agctgggggt tgcagtcact actgacaacg
+     1681 cccctcttcc gcctgtccca gtcccaccaa tcacctgcgt acagaacggc ctcaggtacc
+     1741 atgaccgaga cgtgtggaaa cccgagccct gccggatctg cgtctgcgac aacggcaagg
+     1801 tgttgtgcga tgacgtgatc tgtgacgaga ccaagaactg ccccggcgcc gaagtccccg
+     1861 agggcgagtg ctgtcccgtc tgccccgacg gctcaggtgc ggctgcgctc ggggcctggg
+     1921 gcctggggcc tggggcctgg ggcctggggc tggggctggg ggtggtcggc gctcgctggc
+     1981 cctccgtgct ggaggcctct gccgacggga gcagcattag caaaccttgg ctctaacgcg
+     2041 cgtctcttcg tcccctagag tcacccaccg accaagaaac caccggcgtc gaggtaatct
+     2101 cctgccctcg aattttgccc ctgcgcggcc cgtgactcct cacagtcctc ccttctctaa
+     2161 cctggcctct tgtttcttct cccccaatcc cacagggacc caagggagac actggccccc
+     2221 gaggcccaag ggtaagcgtt gcactctggg ctgtgggggg ctgcaggtgg gcatggctct
+     2281 cggccccacg ctcaccccgg ccccgccctc tccccctgca gggacccgca ggcccccctg
+     2341 gccgagatgg catccctgga cagcctggac ttcccggacc ccccggaccc cccggacctc
+     2401 ccggaccccc tggcctcgga ggagtaagtg gagaggcctt gtgtgtccac tctcccctgt
+     2461 tttgtttttg ttttttggca gatgacataa ttttatactt tgaaataatt tcaaacttac
+     2521 agaaaagttg caagaatcct acaggaaact ctcacatacc cttcacagtt tgtgacatgt
+     2581 gctttattag tctctgttta tgtatatgta tctttttttt tctgaactgt ttgagcaagt
+     2641 tgctaacatc aggctctttt gcgcctaaat acttaggtgt gtttttccta aaaacaagag
+     2701 cattctctta actgacctac acaatgatta aattcactct ctaatgtgca gtccgtattc
+     2761 aaagttcacc gatgtcccga taatgtcctt tatagattcc accccccacc accccaatct
+     2821 gggatccagt ccaggattat gtattgcgtt taatcatcat gtctctagtt tccacaaatg
+     2881 tagaacgttc ctcagacttt ctttgtcttt agtggcactg ggagttttga tgagtccagt
+     2941 tgttttgcag actgtccctc aatttgggat tgtctcatta gattagatgc agggatgcat
+     3001 ctttgcagga atgtcttaaa agcaatgtta ttcttctcag cacatcacac caggaagtgc
+     3061 atgatgtcag tttcttccat cctcagtgcc gtcttctgcc tttcaattca ctgtcctcac
+     3121 tctgacttct cttgtttgtt ctagaacttt gctccccagc tgtcttatgg ctatgatgag
+     3181 aaatcaaccg gaggaatttc cgtgcctggc cccatggtga gccagcaggg ggagcatgga
+     3241 tgacagaaga gagaatgggt atccagagga ggtgggcata ggcggctggt atagacagct
+     3301 tgggaggtcc agatcacctt tgggacctca gagtccagaa aggatgcagg acgactgggt
+     3361 ggtcccaaca ggcatgaatg actacatcca catgctttcc tacagaggga tcaccatgac
+     3421 ccccctttct tctccctcta tagggtccct ctggtcctcg tggtctccct ggcccccctg
+     3481 gtgcacctgt gagtatccag gacgtcttca tatgcctcct tgggctttgg tcttttggag
+     3541 ggaagactgg gatgagggca ggagagatgc tcagagatct cttggtaaga ttggagaagg
+     3601 ttgacaggga cttgtcttct aacccatctt tttccttctt ctcaagggtc cccaaggctt
+     3661 ccaaggtccc cctggtgagc ctggcgagcc tggagcttca gtaagcactc tctatacaga
+     3721 ttcatactcc ttctacaaac acacagactc tcctatagaa gaactcccag gcctggggtc
+     3781 ttccttacct cttcccttca atcccagcct tccccttctt tttttcttat ccatattcta
+     3841 accacctctt ctatcttttc tagggtccca tgggtccccg aggtccccca ggtccccctg
+     3901 gaaagaatgg agatgatgta agtatcccca gcaagaagat accatctgac cccatggcct
+     3961 ccatgggttg ggtcctgcaa tttccactcc accacatttg ggaacgatac tcagaggaag
+     4021 gagggcaagt cctctctgat gcacggactg ccctggaaca atgatctttt cgcttagtga
+     4081 gatgattcca tgtccccaac aaagtgactg ttctcctcac cccagccacc ttagagcaat
+     4141 ccccaacccc atccctttgg ggaaattggt gcgcagatgg tgaaattaaa atgctggtga
+     4201 cagaagtaga cagaaattcc tttagaggca ctcagatttc accaaacgaa ggtttcactg
+     4261 tagatttaaa ctgagctcta gattcaaaga taagattctg ggcccccaaa cctgacctgc
+     4321 aacaatccaa agaagactga gaccttctcc acttttccag cccctaggcg gtggtgggga
+     4381 ggcagaggca tgatggtctt ttctctccct ctcaggggga agctggaaaa cctggtcgtc
+     4441 ctggtgagcg tgggcctcct gggcctcagg tgagcagggg gctgtggctg aacctgggct
+     4501 tcactgcact tgggcttcat ttaggagctg ggtccacagt gatgtgttct aatggccctt
+     4561 ccttgtcttc ttcatctctc tccagggtgc tcgaggattg cccggaacag ctggcctccc
+     4621 tggaatgaag ggacacagag tgagtcacct ttgagtcatt taagctcccc aagtccctag
+     4681 cataccccca tccagtccca acctcttccc caaaagatac tgagttgcat catggtgggt
+     4741 ggcagctaca gaagtcccaa gggacagaga gtggacatcc aaaagcacct ccctccatgg
+     4801 gaaagcagtc ccgattaaac gattgggtga gatctagagc cagttggggt ttagtctagc
+     4861 tcagaaacaa agggatggcg gtgatgacct cccaaggctc tttctcagat ctaggtggat
+     4921 gtcaaggctg ttccaccccc tccacaggtt cttaccttct acctctttcc tgctttaggg
+     4981 tttcagtggt ttggatggtg ccaagggaga tgctggtcct gctggtccta aggtaagagg
+     5041 ctgtctgaac atcatggtcc tccacatccc cagagtccca ccatgaatga atttctcact
+     5101 cattattctc tgatctacag ggtgagcctg gcagccctgg tgaaaatgga gctcctggtc
+     5161 agatggtgag tgtgcccagt tccagagggc agggatgggg caggaggcag gggcaagatg
+     5221 gaggcctggg ggaacaaggc tgtctcccat ctcatctgac ttctcttggt ttggttgtca
+     5281 gggcccccgt ggcctgcctg gtgagagagg tcgccctgga gcccctggcc ctgctgtaag
+     5341 tactcctggc cccttggggg atccctgagc tctggaaggg gctccccagg aactctaggg
+     5401 actggccagt gctcagtgga cttaacgggg cttcccctct ctcctgcagg gtgctcgtgg
+     5461 aaatgatggt gctactggtg ctgccgggcc ccctgtgagt gtggcctgta ggcctcaggg
+     5521 cctgggagtg gggaggggtc tcagtatctg ctcttggggc tgacaatggg agcaggttat
+     5581 gttggtctga accccaggac ttcctctgtc ccagggtgtg acttgcagct gccatctctt
+     5641 ccttctcgct gacatctcca tttcattcac agggtcccac cggccccgct ggtcctcctg
+     5701 gcttccctgg tgctgttggt gctaaggtga gaccccccac tctcctctaa gcatgaccct
+     5761 catgggccaa ggggttcatg tctccctgtt ccccaaacca aagggaccca gagtggcaag
+     5821 agagcagccc gttcactaac acctttgtcc tgggttctcc gtctctgatc ttagagtcct
+     5881 gatcattgct ctcctgtccc tgtctcccct tcctcctgcc atcccgagag gcaaggttgg
+     5941 gtttcccagg gtggcttctg atatgtcctt tcttctgatt cagggtgaag ctggtcccca
+     6001 agggccccga ggctctgaag gtccccaggg tgtgcgtggt gagcctggcc cccctggccc
+     6061 tgctggtgct gctggccctg ctgtaagtgt ccccgactca gtgtcccctt tgccactttc
+     6121 taacctcaga gtccttgcct gttgctgaca ctcctttctc tgtgccacag ggaaaccctg
+     6181 gtgctgatgg acagcctggt gctaaaggtg ccaatgtaag tatcctgcca ggcttcagtc
+     6241 ccactcctgc cgcctgcagc ctgcctgccc ctttccctct gctcctaggc tcacgccctg
+     6301 gctgtctgcc tcccacaggg tgctcctggt attgctggtg ctcctggctt ccctggtgcc
+     6361 cgaggcccct ctggacccca gggccccggc ggccctcctg gtcccaaggg taacagcgtg
+     6421 agtaccaaac tctcccttct gcccacccca tgcactggct ccagtgcggc tctcatctgg
+     6481 ggagcaggaa gacgcaggcc aactgagcgc ccccgactct cagctcatcc tcttctcccc
+     6541 ccttgcaggg tgaacctggt gctcctggca gcaaaggaga cactggtgct aagggagagc
+     6601 ctgtaagtct ccccgccatc cttcttgcag cccagcccac cctgccctag gagccccctg
+     6661 agggaaatcc agaaaggaag aggagcccct agtcttctgg gggagtccct gccacacccc
+     6721 caggaacccc tgacactgga ggcccagcct cagccggctc tgaggctggc acaggatggc
+     6781 ccctcaccac aggccgcctc ctcctctcgg ccctctccag ggccctgttg gtgttcaagg
+     6841 accccctggc cctgctggag aggaaggaaa gcgaggagct cgaggtgaac ccggacccac
+     6901 tggcctgccc ggaccccctg gcgagcgtgt aagtgtccct gcccgccccc tcccgctcca
+     6961 ccctcattgc ctggctggtg cctgtgtgtc gcggagttca ctggcctcct ctcctcctgc
+     7021 agggtggacc tggtagccgt ggtttccctg gcgcagatgg tgttgctggt cccaaggtaa
+     7081 cctctccttg cggccggggg gctgaccctg ccgctccctg ggcatcttct tcctcttttg
+     7141 gcccgtggca aagagccaca aacttgagac cctaactgtt cctgtgactt cccccaacca
+     7201 gggtcccgct ggtgaacgtg gttctcctgg ccctgctggc cccaaaggat ctcctggtga
+     7261 agctggtcgt cccggtgaag ctggtctgcc tggtgccaag gtgaggcccc aggctttcag
+     7321 cctggcttgg ccaggccctg accatcccgt gtagggtctg ggatgaggcg ttctggatca
+     7381 ggcccaaggg tctgccctct ggagtcctcc cccacctcca tcatgcttct ccccaagtcc
+     7441 cactcatacc tctctgcctc cctagggtct gactggaagc cctggcagcc ctggtcctga
+     7501 tggcaaaact ggcccccctg taagtatcac tccccctgaa ccccctgcca ttgtcctgtc
+     7561 tgcctccctg ctgtcctcac tgctgctttc gtgcctccca tccttagggt cccgccggtc
+     7621 aagatggtcg ccccggaccc ccaggcccac ctggtgcccg tggtcaggct ggtgtgatgg
+     7681 gattccctgg acctaaaggt gctgctgtga gtattaagtg aggatccatg aagagccagg
+     7741 gacaaacaca cctgagactt gaaggagtcc tgggctctgg gctcagctgt gccgctgacc
+     7801 tgccgtgtgg ccactcactc tcactttctg gacctcagcc tccctatctg taaaatgaaa
+     7861 gacttctcgg cggggcacgg tggctcatgc ctgtaatccc agcactttgg gaggccaagg
+     7921 cgggcagacc atgaggtcag gagtttgaga ccagtcgggc caacatagtg aaaccacgtc
+     7981 tctactaaaa atacaaaaga ttagctgggt gtggtggtgt gcacctgtaa ccccagctag
+     8041 tcaggaggct gaggcaggag aattgcatga acccgggagg tggaggttgc agtgagctga
+     8101 gatcacgcca ttgcactcca gcctgggcaa cagtgcgaga ttccatctca aaaaaaaaaa
+     8161 aaaagaagaa agaaagaaag aaaaaatgaa acacttctcc aggctccatg accactgctc
+     8221 tgtcctggaa ataagtgttg ttggtggccc tccaccccga cacgtgggga taggacaggc
+     8281 ctttgatatg ataggcaccc ccagtcttgg tggattcttt gaggtccaaa aggagatagc
+     8341 agagaagatg aaagcccttt gcagtgcagg ccacagcggg catctaacag ggaaaaggca
+     8401 gaggagcctg gaagggcatc ttgggaggag tgggctcaga aagggcccag caagaagcac
+     8461 ctgcaggggc attccccggg ggccaaacag tcttttgaaa agaaagtccc ttaaaaagtc
+     8521 ccactcagag taaatgagag gccccaggag gccctggctt ctcacttcag ccccctcaac
+     8581 cctaactccc tttctccaca gggagagccc ggcaaggctg gagagcgagg tgttcccgga
+     8641 ccccctggcg ctgtcgtaag tatctccttt ccatccctac ctccttccca ttgctgcccc
+     8701 ggcactttct cctccctgca ggaggggtgc tagaggccac ggtcctcagc tgctcggggc
+     8761 ctcctaaccc tgagttcccc tttgctctct ccctgcaggg tcctgctggc aaagatggag
+     8821 aggctggagc tcagggaccc cctggccctg ctgtgagtgt ccctgatggg gagatctggg
+     8881 gagcagaaaa ggggagacac cctcagcccc tcgtctcctc ggcctccccg tgactgtagt
+     8941 gttctctctg tgcagggtcc cgctggcgag agaggtgaac aaggccctgc tggctccccc
+     9001 ggattccagg tgaggcctca tggctgtcag gatgctggga ggtaggggta ggaaacacct
+     9061 ctttggtctc ttccagattc taaaccttcc ctcccttctt cccccatttc ccacctacag
+     9121 ggtctccctg gtcctgctgg tcctccaggt gaagcaggca aacctggtga acaggtaaga
+     9181 gggagcagcc ggccagaggg gtgggagatg cagggaatcc agagggacag gcccccgctc
+     9241 ctagctaatc agacagccat caactagagg gattgaggtt agacgccgga aagaacttcc
+     9301 tcccatgaag ggagcagcac agagggaagt gggggctgca tgattgctag tctgggtgac
+     9361 ttcttttaag agctgctgga atatgctgtg actttccctc aacccttcta ttgataaatc
+     9421 ttggtccata gtttggggag gggggaagcc tttgacacat ccctaggagg aagagagggg
+     9481 ctgtttggga taatctcaat tcagtgctga gaaggggttc ctctctaatc acggccagac
+     9541 cccaggagga aggaccgtgc tttccagcag agtggcccca ggtgggtttt gctcactgtc
+     9601 tgttcctctc tccctccccc tcagggtgtt cctggagacc ttggcgcccc tggcccctct
+     9661 ggagcaagag taagtaggcc tctctcgctg catccgtcaa ggtgcgtcgt acttggccct
+     9721 atctccagag cagccttcac atgccctgtc cttcccttct agggcgagag aggtttccct
+     9781 ggcgagcgtg gtgtgcaagg tccccctggt cctgctggtc cccgaggggc caacggtgct
+     9841 cccggcaacg atggtgctaa ggtgagggca gcgtggaagg ggctctggca agtggcccag
+     9901 ggaccaggtc tcacccctcc tgcagcaggg gatggcgggc catgaccaaa gccatggaga
+     9961 tagggtgtgg ggtgggggga aaagaccagg gcaggggccc acacacagcc tggagtctgg
+    10021 gctgtgagtc ttttcatctt ttctcaaggc ttgtcgttgg ccttggaaac aagcctggga
+    10081 gataccaagc ggggcttagg gctgtgaccc actcttgggg ccccaggcct cactccagtc
+    10141 ttcttggttg tcacataggg tgatgctggt gcccctggag ctcccggtag ccagggcgcc
+    10201 cctggccttc agggaatgcc tggtgaacgt ggtgcagctg gtcttccagg gcctaagggt
+    10261 gacagagtaa gttcaacctt ccccctcccc tgagccctac atggctccca tctctgcctg
+    10321 ctttgaatct ctcagcatct ctccttctct ctgggatctg tccctcttct cgctaatcct
+    10381 cccttcttcc cctttcccct ctggcctttt tgctgatgaa tcctctccct gtggtccagg
+    10441 cccatctatc cccatgggtt accatggtga tgagaggtgg gggcatctcc ttggtggagg
+    10501 ctcccttatt catcccgcta cacaagtcag gggcctctta acctcagttc cacctgagtc
+    10561 tccaggcagg cacccttttt cctgaaagaa tctttgagtc cttggcccag gtggaggcag
+    10621 ggcagagctg cagagggcct ctcaggaaac ccagacacaa gcagaacact ataggtcacc
+    10681 tccttgcccc acactggaaa tctcaagctt atccatgtct ttagggtgat gctggtccca
+    10741 aaggtgctga tggctctcct ggcaaagatg gcgtccgtgg tctgactggc cccattggtc
+    10801 ctcctggccc tgctggtgcc cctggtgaca aggtgaggtg gccgcctccc caccttctgc
+    10861 cctaacacat agcctcctca gcaggcctgg gcacggttcc gtggggttgc gttgggagag
+    10921 caggtcctgc caaactgagc tgtcaacctg ggaacctgga gggaccagaa ggaggggagg
+    10981 ctctcctggg gtcatctact aggagtattc aggggaggcc ctgaccctga gcctcttgtc
+    11041 ccttgctctc agggtgaaag tggtcccagc ggccctgctg gtcccactgg agctcgtggt
+    11101 gcccccgtaa gtacagaaga cctgttaaga ccccatactt ggcccttccc tcccttcaca
+    11161 cagcacccct ggccctgtct gtgccttcac cccttgcctc tcccctcacc gcatccccgc
+    11221 cttccctcct gtcagcgcat ctctccaatc tgactccttt tcttctaggg agaccgtggt
+    11281 gagcctggtc cccccggccc tgctggcttt gctggccccc ctgtgagtac caagaccccc
+    11341 atcatttttc atcaccgact gggacctggg acctcgaggg acggaatgag gacaaaggcg
+    11401 tcagccatcc tcaggggaga agggtggaga cgggattgtt tcccacccaa gcatcttcct
+    11461 gcctccatta ctgctcctcc cccaggtagt ggaaactcct gcctccttcc ctccattcac
+    11521 cgccctgctt cctcccccag ggtgctgacg gccaacctgg tgctaaaggc gaacctggtg
+    11581 atgctggtgc taaaggcgat gctggtcccc ctggccctgc cggacccgct ggaccccctg
+    11641 gccccattgt gagtggcttg gccctctgtg cccacgaggc tggtgggctg ggacccagga
+    11701 cgggtccagg cttgatgcct ctgtgctctc ctacagggta atgttggtgc tcctggagcc
+    11761 aaaggtgctc gcggcagcgc tggtccccct gtgagtatca cccgcctctc tgttgagcct
+    11821 ctcccctctc cccaggcagc ggtggcaggt gagggcagct gggtcggatg agttggctgt
+    11881 tctccctctg actgttccta tgttctctcc ttccagggtg ctactggttt ccctggtgct
+    11941 gctggccgag tcggtcctcc tggcccctct gtaagtctct gcagcagagt ccactgctct
+    12001 aggttggggg tgctgggtgg gggctgccag aaggatggtg gggctgactg aggacccaat
+    12061 gatgcaccag agccccctgg agtctgacag cccctcctat cctcatccag ggaaatgctg
+    12121 gaccccctgg ccctcctggt cctgctggca aagaaggcgg caaaggtccc cgtggtgaga
+    12181 ctggccctgc tggacgtcct ggtgaagttg gtccccctgg tccccctggc cctgctggcg
+    12241 agaaaggatc ccctggtgct gatggtcctg ctgtaagtgc cagctcagat ctctgcagct
+    12301 ccggaggtgt gcagagctgg ggaggggtcc ctgtgctgct ctctggcacc tcacccctgt
+    12361 ttgcctccca aagggtgctc ctggtactcc cgggcctcaa ggtattgctg gacagcgtgg
+    12421 tgtggtcggc ctgcctggtc agagaggaga gagaggcttc cctggtcttc ctggcccctc
+    12481 tgtaagtgcc cccctcacct tggggggccc tgagaaaaac catcacagga cttggagtgg
+    12541 ggcggagcca aggagaacag atttggtaga gatgactcca gcggactcaa gggtcctccc
+    12601 agaccctatc tctggcctga ctctttcttc tcccttaggg tgaacctggc aaacaaggtc
+    12661 cctctggagc aagtggtgaa cgtggtcccc ctggtcccat gggcccccct ggattggctg
+    12721 gaccccctgg tgaatctgga cgtgaggtga gcagtcccca gcccccatgc cagtaccctc
+    12781 agcatggcca ttgtggcctt gcctaagccc tcttccccgg ctgactctca cttctctctc
+    12841 tctctctctg cagggggctc ctggtgccga aggttcccct ggacgagacg gttctcctgg
+    12901 cgccaaggta agatggcaac actccatgac cacagccttg tctgctgctt ccctgcccca
+    12961 tcctggccct tcacccgggg ctgacccata ttcccctgct ctccccgcca gggtgaccgt
+    13021 ggtgagaccg gccccgctgg accccctggt gctcctggtg ctcctggtgc ccctggcccc
+    13081 gttggccctg ctggcaagag tggtgatcgt ggtgagactg taagtagctg ggctccagtt
+    13141 ccctgtacct ggtcaggcca gggactcttc aggcctcctt agaggcctgg ggatgggtgt
+    13201 cggacttcac ccaggcaggg ggaggaaagg agatcctgca agatgtcagg gccttaatcc
+    13261 aaaaaactga gttaaagctc agccccaagt cccctctccc agacaggacc gcctctccca
+    13321 tgagttggcc ccagctcccg tgaagattgc agtggggagg tttccctggg agttgggaga
+    13381 gatggccaca gtgggaagca gctgaggaga gagagatcca gcagagggga ggcctcatcc
+    13441 tgcagcccca gcctcagcct tccctggcca agagctcatg ctttccttgc tctccccagg
+    13501 gtcctgctgg tcccgccggt cctgtcggcc ctgttggcgc ccgtggcccc gccgtaagta
+    13561 ccctgctgtg tcccccatgc ctttagaact ctacagatgc agacagtgcc ccactcgatg
+    13621 ccaatggaac ttccgcctga cagtttgtcc ctttctctct tctagggacc ccaaggcccc
+    13681 cgtggtgaca agggtgagac aggcgaacag ggcgacagag gcataaaggg tcaccgtggc
+    13741 ttctctggcc tccagggtcc ccctggccct cctgtaagta tgctcagccc ctccccagtc
+    13801 cccatgctgt gctgtgggat aggaggggga gcttcgcctc agtttccccc tctggatagt
+    13861 cattctttcc cctccctagt ggggactggg gtctgaagat ttgtgggcat gtccaagtag
+    13921 cttctgagag ggtgaggggt acacagagag ggattatggg agaggtctct gcctatggac
+    13981 accctcgggc tagatttcca gaataatgaa ggggcatggg ttgcccacac tgcccttgtc
+    14041 tctccagcca ggccctcagg ctacatttga cgctcactgg gcctgaactg ccttttttat
+    14101 ctgtccttca gggctctcct ggtgaacaag gtccctctgg agcctctggt cctgctggtc
+    14161 cccgagtaag tcatgccttc tctctcctct tcctgagccc caagcccagg ctcacctcgg
+    14221 ggacccttgc cagggaccca ggcacccttt gcctctctgg agaagggttc agggacaggg
+    14281 agtgggcaaa gagaggaaga atcctgaaca aacaatctga tctagctttg gcctctctgc
+    14341 tccccaatcc gtcctcccct ggctcagcgg ctgggaggag ctatggcatg tcctatggaa
+    14401 agaggctgag gctggctcta tgagccgtgg ggccagagcc agcagggagg gtggtgggcc
+    14461 tctcctccag agctggggtt gttcgggctt ctggcagcct ttctcaaacc atttccccca
+    14521 ctccagggtc cccctggctc tgctggtgct cctggcaaag atggactcaa cggtctccct
+    14581 ggccccattg ggccccctgg tcctcgcggt cgcactggtg atgctggtcc tgttgtatgt
+    14641 agcccctcat cccctctgct catggccctc cagcccccaa agcacttgga tgccggtaat
+    14701 ccccactctc ttccctctct gtgcagggtc cccccggccc tcctggacct cctggtcccc
+    14761 ctggtcctcc cagcgctggt ttcgacttca gcttcctgcc ccagccacct caagagaagg
+    14821 ctcacgatgg tggccgctac taccgggctg atgatgccaa tgtggttcgt gaccgtgacc
+    14881 tcgaggtgga caccaccctc aagagcctga gccagcagat cgagaacatc cggagcccag
+    14941 agggcagccg caagaacccc gcccgcacct gccgtgacct caagatgtgc cactctgact
+    15001 ggaagagtgg tgagggcctg ccctagcctc tccctccctc ctactcctgc catgccaggg
+    15061 tccccatgcc catatgtgcc cctaccatat ggtgctggct gctccctttc cctgactcca
+    15121 tcttgccctg ccctaccaca ggagagtact ggattgaccc caaccaaggc tgcaacctgg
+    15181 atgccatcaa agtcttctgc aacatggaga ctggtgagac ctgcgtgtac cccactcagc
+    15241 ccagtgtggc ccagaagaac tggtacatca gcaagaaccc caaggacaag aggcatgtct
+    15301 ggttcggcga gagcatgacc gatggattcc aggtgcgtga gctggacctc agagccagtg
+    15361 ttaggagatg ggctagccca gtgctcagaa gggacatgaa gtcctggagt aggtctctgc
+    15421 taagggtgat ggacagagct gggctgggag gcaggggtct caggtccctg atagtggttc
+    15481 agacacaggc tgccgatggg caggtggtgc ctcctctcga tataacggtg cattgggcag
+    15541 ctctctgagg accctggaca gggaggccag gcaggactag aggttcccgc atagcggctc
+    15601 actcttccct ctctcccctc ccctgcagtt cgagtatggc ggccagggct ccgaccctgc
+    15661 cgatgtggcc atccagctga ccttcctgcg cctgatgtcc accgaggcct cccagaacat
+    15721 cacctaccac tgcaagaaca gcgtggccta catggaccag cagactggca acctcaagaa
+    15781 ggccctgctc ctccagggct ccaacgagat cgagatccgc gccgagggca acagccgctt
+    15841 cacctacagc gtcactgtcg atggctgcac ggtgagtgcc cagaatcccc aggcagggcc
+    15901 ccacctctcc ggccttgggc tttttggcca ggccatagtg ccctctctcc atcactccca
+    15961 cgtggtaatg ccccctcccg ttgtctccgc cccaccccag agtcacaccg gagcctgggg
+    16021 caagacagtg attgaataca aaaccaccaa gacctcccgc ctgcccatca tcgatgtggc
+    16081 ccccttggac gttggtgccc cagaccagga attcggcttc gacgttggcc ctgtctgctt
+    16141 cctgtaaact ccctccatcc caacctggct ccctcccacc caaccaactt tccccccaac
+    16201 ccggaaacag acaagcaacc caaactgaac cccctcaaaa gccaaaaaat gggagacaat
+    16261 ttcacatgga ctttggaaaa tatttttttc ctttgcattc atctctcaaa cttagttttt
+    16321 atctttgacc aaccgaacat gaccaaaaac caaaagtgca ttcaacctta ccaaaaaaaa
+    16381 aaaaaaaaaa agaataaata aataactttt taaaaaagga agcttggtcc acttgcttga
+    16441 agacccatgc gggggtaagt ccctttctgc ccgttgggct tatgaaaccc caatgctgcc
+    16501 ctttctgctc ctttctccac accccccttg gggcctcccc tccactcctt cccaaatctg
+    16561 tctccccaga agacacagga aacaatgtat tgtctgccca gcaatcaaag gcaatgctca
+    16621 aacacccaag tggcccccac cctcagcccg ctcctgcccg cccagcaccc ccaggccctg
+    16681 ggggacctgg ggttctcaga ctgccaaaga agccttgcca tctggcgctc ccatggctct
+    16741 tgcaacatct ccccttcgtt tttgaggggg tcatgccggg ggagccacca gcccctcact
+    16801 gggttcggag gagagtcagg aagggccacg acaaagcaga aacatcggat ttggggaacg
+    16861 cgtgtcaatc ccttgtgccg cagggctggg cgggagagac tgttctgttc cttgtgtaac
+    16921 tgtgttgctg aaagactacc tcgttcttgt cttgatgtgt caccggggca actgcctggg
+    16981 ggcggggatg ggggcagggt ggaagcggct ccccatttta taccaaaggt gctacatcta
+    17041 tgtgatgggt ggggtgggga gggaatcact ggtgctatag aaattgagat gcccccccag
+    17101 gccagcaaat gttccttttt gttcaaagtc tatttttatt ccttgatatt tttctttttt
+    17161 tttttttttt tttgtggatg gggacttgtg aatttttcta aaggtgctat ttaacatggg
+    17221 aggagagcgt gtgcggctcc agcccagccc gctgctcact ttccaccctc tctccacctg
+    17281 cctctggctt ctcaggcctc tgctctccga cctctctcct ctgaaaccct cctccacagc
+    17341 tgcagcccat cctcccggct ccctcctagt ctgtcctgcg tcctctgtcc ccgggtttca
+    17401 gagacaactt cccaaagcac aaagcagttt ttccccctag gggtgggagg aagcaaaaga
+    17461 ctctgtacct attttgtatg tgtataataa tttgagatgt ttttaattat tttgattgct
+    17521 ggaataaagc atgtggaaat gacccaaaca taa
+//
+
