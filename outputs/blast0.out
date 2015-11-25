@@ -1,0 +1,115 @@
+BLASTP 2.3.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= NC_000017-0F Homo sapiens chromosome 17, GRCh38.p2 Primary
+Assembly.
+       (5,851 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           77,306,371 sequences; 28,104,191,422 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+gb|AAA52035.1| mutant alpha-1 collagen type 1, partial [Homo s...   192   1e-51
+dbj|BAH12658.1| unnamed protein product [Homo sapiens]              145   9e-34
+gb|AAA64617.1| alpha-1 type I collagen, partial [Rattus norvegicus]   115   3e-25
+
+
+>gb|AAA52035.1| mutant alpha-1 collagen type 1, partial [Homo sapiens]
+         Length = 109
+
+ Score =  192 bits (488), Expect = 1e-51
+ Identities = 87/90 (96%), Positives = 87/90 (96%)
+
+
+Query: 5369 PGIRLRRWPCLLPVNSLHPNLAPSHPTNFPPNPETDKQPKLNPLKSQKMGDNFTWTLENI 5428
+            P  RLRRWPCLLPVNSLHPNLAPSHPTNFPPNPETDKQPKLNP KSQKMGDNFTWTLENI 
+Sbjct: 11   PDQRLRRWPCLLPVNSLHPNLAPSHPTNFPPNPETDKQPKLNPPKSQKMGDNFTWTLENI 70
+
+Query: 5429 FFLCIHLSNLVFIFDQPNMTKNQKCIQPYQ 5458
+            FFLCIHLSNLVFIFDQPNMTKNQKCIQPYQ 
+Sbjct: 71   FFLCIHLSNLVFIFDQPNMTKNQKCIQPYQ 100
+
+
+>dbj|BAH12658.1| unnamed protein product [Homo sapiens]
+         Length = 243
+
+ Score =  145 bits (366), Expect = 9e-34
+ Identities = 118/119 (99%), Positives = 119/119 (100%)
+
+
+Query: 4842 QGPPGSAGAPGKdglnglpgpigppgprgrtgdagpVVCSPSSPLLMALQPPKHLDAGNP 4901
+            +GPPGSAGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVVCSPSSPLLMALQPPKHLDAGNP 
+Sbjct: 116  RGPPGSAGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVVCSPSSPLLMALQPPKHLDAGNP 175
+
+Query: 4902 HSLPSLCRvppalldllvplvlpalvSTSASCPSHLKRRLTMVAATTGLMMPMWFVTVT 4960
+            HSLPSLCRVPPALLDLLVPLVLPALVSTSASCPSHLKRRLTMVAATTGLMMPMWFVTVT 
+Sbjct: 176  HSLPSLCRVPPALLDLLVPLVLPALVSTSASCPSHLKRRLTMVAATTGLMMPMWFVTVT 234
+
+
+>gb|AAA64617.1| alpha-1 type I collagen, partial [Rattus norvegicus]
+         Length = 71
+
+ Score =  115 bits (287), Expect = 3e-25
+ Identities = 55/67 (82%), Positives = 59/67 (88%), Gaps = 1/67 (1%)
+
+
+Query: 5391 PSHPTNFPPNPETDKQPKLNPLKSQKMGDNFTWTLENIFFLCIHLSNLVFIFDQPNMTKN 5450
+            P+ PT FP   ETD+QPKLN  KSQK+GDNFTWTLENIFFLCIHLSNLVFIFDQ N+TKN 
+Sbjct: 6    PTQPT-FPXTLETDQQPKLNFPKSQKLGDNFTWTLENIFFLCIHLSNLVFIFDQLNVTKN 64
+
+Query: 5451 QKCIQPY 5457
+            QKCIQPY 
+Sbjct: 65   QKCIQPY 71
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  Nov 21, 2015  1:45 AM
+	Number of letters in database: 28,104,191,422
+	Number of sequences in database: 77,306,371
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 13,138,116,720
+S1: 39
+S1_bits: 19.6
+S2: 195
+S2_bits: 79.7
+T: 11
+X1: 15
+X1_bits: 7.3
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 77,306,371
+dbletters: 28,104,191,422
+effectivedblength: 14,575,576,497
+effectivespace: 82,730,972,196,972
+effectivespaceused: 82,730,972,196,972
+entropy: 0.527
+entropy_gapped: 0.140
+kappa: 0.146
+kappa_gapped: 0.0410
+lambda: 0.335
+lambda_gapped: 0.267
+length_adjustment: 175
+num_extensions: 500,393,408
+num_successful_extensions: 1,848,842
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 1,848,840
+number_of_hsps_successfully_gapped: 3
+querylength: 5,676
+seqs_better_than_1e-10: 3
+
+
