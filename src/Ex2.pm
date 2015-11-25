@@ -17,7 +17,7 @@ while($i != $numArgs) {
 		
 		# If the computer has Internet accessibility, blasts the sequence using the NCBI BLAST server against nrdb.
 		$blast = blast_sequence($sequence);
-
+		
 		write_blast(">../outputs/blast$i.out",$blast);
 	}
 
