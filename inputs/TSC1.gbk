@@ -1,0 +1,497 @@
+LOCUS       NM_000368               8626 bp    mRNA    linear   PRI 15-MAR-2015
+DEFINITION  Homo sapiens tuberous sclerosis 1 (TSC1), transcript variant 1,
+            mRNA.
+ACCESSION   NM_000368
+VERSION     NM_000368.4  GI:241666460
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 8626)
+  AUTHORS   Corominas R, Yang X, Lin GN, Kang S, Shen Y, Ghamsari L, Broly M,
+            Rodriguez M, Tam S, Trigg SA, Fan C, Yi S, Tasan M, Lemmens I,
+            Kuang X, Zhao N, Malhotra D, Michaelson JJ, Vacic V, Calderwood MA,
+            Roth FP, Tavernier J, Horvath S, Salehi-Ashtiani K, Korkin D, Sebat
+            J, Hill DE, Hao T, Vidal M and Iakoucheva LM.
+  TITLE     Protein interaction network of alternatively spliced isoforms from
+            brain links genetic risk factors for autism
+  JOURNAL   Nat Commun 5, 3650 (2014)
+   PUBMED   24722188
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 8626)
+  AUTHORS   Tran TA, Kinch L, Pena-Llopis S, Kockel L, Grishin N, Jiang H and
+            Brugarolas J.
+  TITLE     Platelet-derived growth factor/vascular endothelial growth factor
+            receptor inactivation by sunitinib results in Tsc1/Tsc2-dependent
+            inhibition of TORC1
+  JOURNAL   Mol. Cell. Biol. 33 (19), 3762-3779 (2013)
+   PUBMED   23878397
+  REMARK    GeneRIF: Data indicate that sunitinib inhibited TORC1 in
+            endothelial cells in a Tsc1/Tsc2-dependent manner
+REFERENCE   3  (bases 1 to 8626)
+  AUTHORS   Jozwiak J, Sontowska I and Ploski R.
+  TITLE     Frequency of TSC1 and TSC2 mutations in American, British, Polish
+            and Taiwanese populations
+  JOURNAL   Mol Med Rep 8 (3), 909-913 (2013)
+   PUBMED   23846400
+  REMARK    GeneRIF: Approximately 9.6 and 12.7% of Polish and Taiwanese
+            patients, respectively, had TSC1 mutations, while their American
+            and British counterparts exhibited an approximately 2fold higher
+            ratio of mutated hamartin.
+REFERENCE   4  (bases 1 to 8626)
+  AUTHORS   Anttila V, Winsvold BS, Gormley P, Kurth T, Bettella F, McMahon G,
+            Kallela M, Malik R, de Vries B, Terwindt G, Medland SE, Todt U,
+            McArdle WL, Quaye L, Koiranen M, Ikram MA, Lehtimaki T, Stam AH,
+            Ligthart L, Wedenoja J, Dunham I, Neale BM, Palta P, Hamalainen E,
+            Schurks M, Rose LM, Buring JE, Ridker PM, Steinberg S, Stefansson
+            H, Jakobsson F, Lawlor DA, Evans DM, Ring SM, Farkkila M, Artto V,
+            Kaunisto MA, Freilinger T, Schoenen J, Frants RR, Pelzer N, Weller
+            CM, Zielman R, Heath AC, Madden PA, Montgomery GW, Martin NG, Borck
+            G, Gobel H, Heinze A, Heinze-Kuhn K, Williams FM, Hartikainen AL,
+            Pouta A, van den Ende J, Uitterlinden AG, Hofman A, Amin N,
+            Hottenga JJ, Vink JM, Heikkila K, Alexander M, Muller-Myhsok B,
+            Schreiber S, Meitinger T, Wichmann HE, Aromaa A, Eriksson JG,
+            Traynor BJ, Trabzuni D, Rossin E, Lage K, Jacobs SB, Gibbs JR,
+            Birney E, Kaprio J, Penninx BW, Boomsma DI, van Duijn C, Raitakari
+            O, Jarvelin MR, Zwart JA, Cherkas L, Strachan DP, Kubisch C,
+            Ferrari MD, van den Maagdenberg AM, Dichgans M, Wessman M, Smith
+            GD, Stefansson K, Daly MJ, Nyholt DR, Chasman DI and Palotie A.
+  CONSRTM   North American Brain Expression Consortium; UK Brain Expression
+            Consortium; International Headache Genetics Consortium
+  TITLE     Genome-wide meta-analysis identifies new susceptibility loci for
+            migraine
+  JOURNAL   Nat. Genet. 45 (8), 912-917 (2013)
+   PUBMED   23793025
+REFERENCE   5  (bases 1 to 8626)
+  AUTHORS   Sun W, Zhu YJ, Wang Z, Zhong Q, Gao F, Lou J, Gong W and Xu W.
+  TITLE     Crystal structure of the yeast TSC1 core domain and implications
+            for tuberous sclerosis pathological mutations
+  JOURNAL   Nat Commun 4, 2135 (2013)
+   PUBMED   23857276
+  REMARK    GeneRIF: The disruption of the TSC1-N-terminal domain globular
+            structure is a major cause of tuberous sclerosis.
+REFERENCE   6  (bases 1 to 8626)
+  AUTHORS   Plank TL, Yeung RS and Henske EP.
+  TITLE     Hamartin, the product of the tuberous sclerosis 1 (TSC1) gene,
+            interacts with tuberin and appears to be localized to cytoplasmic
+            vesicles
+  JOURNAL   Cancer Res. 58 (21), 4766-4770 (1998)
+   PUBMED   9809973
+REFERENCE   7  (bases 1 to 8626)
+  AUTHORS   van Slegtenhorst M, Nellist M, Nagelkerken B, Cheadle J, Snell R,
+            van den Ouweland A, Reuser A, Sampson J, Halley D and van der
+            Sluijs P.
+  TITLE     Interaction between hamartin and tuberin, the TSC1 and TSC2 gene
+            products
+  JOURNAL   Hum. Mol. Genet. 7 (6), 1053-1057 (1998)
+   PUBMED   9580671
+REFERENCE   8  (bases 1 to 8626)
+  AUTHORS   Jones AC, Daniells CE, Snell RG, Tachataki M, Idziaszczyk SA,
+            Krawczak M, Sampson JR and Cheadle JP.
+  TITLE     Molecular genetic and phenotypic analysis reveals differences
+            between TSC1 and TSC2 associated familial and sporadic tuberous
+            sclerosis
+  JOURNAL   Hum. Mol. Genet. 6 (12), 2155-2161 (1997)
+   PUBMED   9328481
+REFERENCE   9  (bases 1 to 8626)
+  AUTHORS   van Slegtenhorst M, de Hoogt R, Hermans C, Nellist M, Janssen B,
+            Verhoef S, Lindhout D, van den Ouweland A, Halley D, Young J,
+            Burley M, Jeremiah S, Woodward K, Nahmias J, Fox M, Ekong R,
+            Osborne J, Wolfe J, Povey S, Snell RG, Cheadle JP, Jones AC,
+            Tachataki M, Ravine D, Sampson JR, Reeve MP, Richardson P, Wilmer
+            F, Munro C, Hawkins TL, Sepp T, Ali JB, Ward S, Green AJ, Yates JR,
+            Kwiatkowska J, Henske EP, Short MP, Haines JH, Jozwiak S and
+            Kwiatkowski DJ.
+  TITLE     Identification of the tuberous sclerosis gene TSC1 on chromosome
+            9q34
+  JOURNAL   Science 277 (5327), 805-808 (1997)
+   PUBMED   9242607
+REFERENCE   10 (bases 1 to 8626)
+  AUTHORS   Northrup,H., Koenig,M.K. and Au,K.S.
+  TITLE     Tuberous Sclerosis Complex
+  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Bird TD, Dolan CR, Fong CT,
+            Smith RJH and Stephens K (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301399
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC070032.1, AF013168.1,
+            D87683.1 and N63914.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 23, 2009 this sequence version replaced gi:56699466.
+            
+            Summary: This gene encodes a growth inhibitory protein thought to
+            play a role in the stabilization of tuberin. Mutations in this gene
+            have been associated with tuberous sclerosis. Alternative splicing
+            results in multiple transcript variants. [provided by RefSeq, Jun
+            2009].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF013168.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1263              BC070032.1         2-1264
+            1264-4017           AF013168.1         1251-4004
+            4018-5269           D87683.1           2389-3640
+            5270-6381           AF013168.1         5256-6367
+            6382-8614           D87683.1           4752-6984
+            8615-8626           N63914.1           1-12                c
+FEATURES             Location/Qualifiers
+     source          1..8626
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9q34"
+     gene            1..8626
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /note="tuberous sclerosis 1"
+                     /db_xref="GeneID:7248"
+                     /db_xref="HGNC:HGNC:12362"
+                     /db_xref="HPRD:05594"
+                     /db_xref="MIM:605284"
+     exon            1..91
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            92..154
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            155..340
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    172..174
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /note="upstream in-frame stop codon"
+     CDS             235..3729
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     hamartin; tumor suppressor; tuberous sclerosis 1 protein"
+                     /codon_start=1
+                     /product="hamartin isoform 1"
+                     /protein_id="NP_000359.1"
+                     /db_xref="GI:4507693"
+                     /db_xref="CCDS:CCDS6956.1"
+                     /db_xref="GeneID:7248"
+                     /db_xref="HGNC:HGNC:12362"
+                     /db_xref="HPRD:05594"
+                     /db_xref="MIM:605284"
+                     /translation="MAQQANVGELLAMLDSPMLGVRDDVTAVFKENLNSDRGPMLVNT
+                     LVDYYLETSSQPALHILTTLQEPHDKHLLDRINEYVGKAATRLSILSLLGHVIRLQPS
+                     WKHKLSQAPLLPSLLKCLKMDTDVVVLTTGVLVLITMLPMIPQSGKQHLLDFFDIFGR
+                     LSSWCLKKPGHVAEVYLVHLHASVYALFHRLYGMYPCNFVSFLRSHYSMKENLETFEE
+                     VVKPMMEHVRIHPELVTGSKDHELDPRRWKRLETHDVVIECAKISLDPTEASYEDGYS
+                     VSHQISARFPHRSADVTTSPYADTQNSYGCATSTPYSTSRLMLLNMPGQLPQTLSSPS
+                     TRLITEPPQATLWSPSMVCGMTTPPTSPGNVPPDLSHPYSKVFGTTAGGKGTPLGTPA
+                     TSPPPAPLCHSDDYVHISLPQATVTPPRKEERMDSARPCLHRQHHLLNDRGSEEPPGS
+                     KGSVTLSDLPGFLGDLASEEDSIEKDKEEAAISRELSEITTAEAEPVVPRGGFDSPFY
+                     RDSLPGSQRKTHSAASSSQGASVNPEPLHSSLDKLGPDTPKQAFTPIDLPCGSADESP
+                     AGDRECQTSLETSIFTPSPCKIPPPTRVGFGSGQPPPYDHLFEVALPKTAHHFVIRKT
+                     EELLKKAKGNTEEDGVPSTSPMEVLDRLIQQGADAHSKELNKLPLPSKSVDWTHFGGS
+                     PPSDEIRTLRDQLLLLHNQLLYERFKRQQHALRNRRLLRKVIKAAALEEHNAAMKDQL
+                     KLQEKDIQMWKVSLQKEQARYNQLQEQRDTMVTKLHSQIRQLQHDREEFYNQSQELQT
+                     KLEDCRNMIAELRIELKKANNKVCHTELLLSQVSQKLSNSESVQQQMEFLNRQLLVLG
+                     EVNELYLEQLQNKHSDTTKEVEMMKAAYRKELEKNRSHVLQQTQRLDTSQKRILELES
+                     HLAKKDHLLLEQKKYLEDVKLQARGQLQAAESRYEAQKRITQVFELEILDLYGRLEKD
+                     GLLKKLEEEKAEAAEAAEERLDCCNDGCSDSMVGHNEEASGHNGETKTPRPSSARGSS
+                     GSRGGGGSSSSSSELSTPEKPPHQRAGPFSSRWETTMGEASASIPTTVGSLPSSKSFL
+                     GMKARELFRNKSESQCDEDGMTSSLSESLKTELGKDLGVEAKIPLNLDGPHPSPPTPD
+                     SVGQLHIMDYNETHHEHS"
+     misc_feature    1747..1749
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (Q92574.2); phosphorylation site"
+     misc_feature    1765..1767
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (Q92574.2); phosphorylation site"
+     misc_feature    2026..2028
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (Q92574.2); phosphorylation site"
+     exon            341..444
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            445..597
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            598..742
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            743..897
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     STS             799..967
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /standard_name="PMC18172P1"
+                     /db_xref="UniSTS:271675"
+     exon            898..971
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            972..1147
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1148..1263
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1264..1375
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1376..1497
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1498..1567
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1568..1672
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1673..2231
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2232..2275
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2276..2442
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2443..2625
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2626..2736
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2737..2859
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2860..3047
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3048..3209
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3210..8616
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3244..3387
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /standard_name="D9S1916"
+                     /db_xref="UniSTS:54817"
+     STS             3758..3999
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /standard_name="STS-D87683"
+                     /db_xref="UniSTS:27642"
+     STS             8329..8570
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /standard_name="STS-H11389"
+                     /db_xref="UniSTS:22852"
+     STS             8408..8570
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+                     /standard_name="RH35815"
+                     /db_xref="UniSTS:22853"
+     regulatory      8591..8596
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+     polyA_site      8616
+                     /gene="TSC1"
+                     /gene_synonym="LAM; TSC"
+ORIGIN      
+        1 acgacggggg aggtgctgta cgtccaagat ggcggcgccc tgtaggctgg agggactgtg
+       61 aggtaaacag ctgaggggga ggagacggtg gtgaccatga aagacaccag gttgacagca
+      121 ctggaaactg aagtaccagt tgtcgctaga acagtttggt agtggcccca atgaagaacc
+      181 ttcagaacct gtagcacacg tcctggagcc agcacagcgc cttcgagcga gagaatggcc
+      241 caacaagcaa atgtcgggga gcttcttgcc atgctggact cccccatgct gggtgtgcgg
+      301 gacgacgtga cagctgtctt taaagagaac ctcaattctg accgtggccc tatgcttgta
+      361 aacaccttgg tggattatta cctggaaacc agctctcagc cggcattgca catcctgacc
+      421 accttgcaag agccacatga caagcacctc ttggacagga ttaacgaata tgtgggcaaa
+      481 gccgccactc gtttatccat cctctcgtta ctgggtcatg tcataagact gcagccatct
+      541 tggaagcata agctctctca agcacctctt ttgccttctt tactaaaatg tctcaagatg
+      601 gacactgacg tcgttgtcct cacaacaggc gtcttggtgt tgataaccat gctaccaatg
+      661 attccacagt ctgggaaaca gcatcttctt gatttctttg acatttttgg ccgtctgtca
+      721 tcatggtgcc tgaagaaacc aggccacgtg gcggaagtct atctcgtcca tctccatgcc
+      781 agtgtgtacg cactctttca tcgcctttat ggaatgtacc cttgcaactt cgtctccttt
+      841 ttgcgttctc attacagtat gaaagaaaac ctggagactt ttgaagaagt ggtcaagcca
+      901 atgatggagc atgtgcgaat tcatccggaa ttagtgactg gatccaagga ccatgaactg
+      961 gaccctcgaa ggtggaagag attagaaact catgatgttg tgatcgagtg tgccaaaatc
+     1021 tctctggatc ccacagaagc ctcatatgaa gatggctatt ctgtgtctca ccaaatctca
+     1081 gcccgctttc ctcatcgttc agccgatgtc accaccagcc cttatgctga cacacagaat
+     1141 agctatgggt gtgctacttc taccccttac tccacgtctc ggctgatgtt gttaaatatg
+     1201 ccagggcagc tacctcagac tctgagttcc ccatcgacac ggctgataac tgaaccacca
+     1261 caagctactc tttggagccc atctatggtt tgtggtatga ccactcctcc aacttctcct
+     1321 ggaaatgtcc cacctgatct gtcacaccct tacagtaaag tctttggtac aactgcaggt
+     1381 ggaaaaggaa ctcctctggg aaccccagca acctctcctc ctccagcccc actctgtcat
+     1441 tcggatgact acgtgcacat ttcactcccc caggccacag tcacaccccc caggaaggaa
+     1501 gagagaatgg attctgcaag accatgtcta cacagacaac accatcttct gaatgacaga
+     1561 ggatcagaag agccacctgg cagcaaaggt tctgtcactc taagtgatct tccagggttt
+     1621 ttaggtgatc tggcctctga agaagatagt attgaaaaag ataaagaaga agctgcaata
+     1681 tctagagaac tttctgagat caccacagca gaggcagagc ctgtggttcc tcgaggaggc
+     1741 tttgactctc ccttttaccg agacagtctc ccaggttctc agcggaagac ccactcggca
+     1801 gcctccagtt ctcagggcgc cagcgtgaac cctgagcctt tacactcctc cctggacaag
+     1861 cttgggcctg acacaccaaa gcaagccttt actcccatag acctgccctg cggcagtgct
+     1921 gatgaaagcc ctgcgggaga cagggaatgc cagacttctt tggagaccag tatcttcact
+     1981 cccagtcctt gtaaaattcc acctccgacg agagtgggct ttggaagcgg gcagcctccc
+     2041 ccgtatgatc atctttttga ggtggcattg ccaaagacag cccatcattt tgtcatcagg
+     2101 aagactgagg agctgttaaa gaaagcaaaa ggaaacacag aggaagatgg tgtgccctct
+     2161 acctccccaa tggaagtgct ggacagactg atacagcagg gagcagacgc gcacagcaag
+     2221 gagctgaaca agttgccttt acccagcaag tctgtcgact ggacccactt tggaggctct
+     2281 cctccttcag atgagatccg caccctccga gaccagttgc ttttactgca caaccagtta
+     2341 ctctatgagc gttttaagag gcagcagcat gccctccgga acaggcggct cctccgcaag
+     2401 gtgatcaaag cagcagctct ggaggaacat aatgctgcca tgaaagatca gttgaagtta
+     2461 caagagaagg acatccagat gtggaaggtt agtctgcaga aagaacaagc tagatacaat
+     2521 cagctccagg agcagcgtga cactatggta accaagctcc acagccagat cagacagctg
+     2581 cagcatgacc gagaggaatt ctacaaccag agccaggaat tacagacgaa gctggaggac
+     2641 tgcaggaaca tgattgcgga gctgcggata gaactgaaga aggccaacaa caaggtgtgt
+     2701 cacactgagc tgctgctcag tcaggtttcc caaaagctct caaacagtga gtcggtccag
+     2761 cagcagatgg agttcttgaa caggcagctg ttggttcttg gggaggtcaa cgagctctat
+     2821 ttggaacaac tgcagaacaa gcactcagat accacaaagg aagtagaaat gatgaaagcc
+     2881 gcctatcgga aagagctaga aaaaaacaga agccatgttc tccagcagac tcagaggctt
+     2941 gatacctccc aaaaacggat tttggaactg gaatctcacc tggccaagaa agaccacctt
+     3001 cttttggaac agaagaaata tctagaggat gtcaaactcc aggcaagagg acagctgcag
+     3061 gccgcagaga gcaggtatga ggctcagaaa aggataaccc aggtgtttga attggagatc
+     3121 ttagatttat atggcaggtt ggagaaagat ggcctcctga aaaaacttga agaagaaaaa
+     3181 gcagaagcag ctgaagcagc agaagaaagg cttgactgtt gtaatgacgg gtgctcagat
+     3241 tccatggtag ggcacaatga agaggcatct ggccacaacg gtgagaccaa gacccccagg
+     3301 cccagcagcg cccggggcag tagtggaagc agaggtggtg gaggcagcag cagcagcagc
+     3361 agcgagcttt ctaccccaga gaaaccccca caccagaggg caggcccatt cagcagtcgg
+     3421 tgggagacga ctatgggaga agcgtctgcc agcatcccca ccactgtggg ctcacttccc
+     3481 agttcaaaaa gcttcctggg tatgaaggct cgagagttat ttcgtaataa gagcgagagc
+     3541 cagtgtgatg aggacggcat gaccagtagc ctttctgaga gcctaaagac agaactgggc
+     3601 aaagacttgg gtgtggaagc caagattccc ctgaacctag atggccctca cccgtctccc
+     3661 ccgaccccgg acagtgttgg acagctacat atcatggact acaatgagac tcatcatgaa
+     3721 cacagctaag gaatgatggt caatcagtgt taacttgcat attgttggca cagaacagga
+     3781 ggtgtgaatg cacgtttcaa agctttcctg tttccagggt ctgagtgcaa gttcatgtgt
+     3841 ggaaatggga cggaggtcct ttggacagct gactgaatgc agaacggttt ttggatctgg
+     3901 cattgaaatg cctcttgacc ttcccctcca cccgccctaa ccccctctca tttacctcgc
+     3961 agtgtgttct aatccaaggg ccagttggtg ttcctcagta gctttacttt cttcctttcc
+     4021 cccccaaatg gttgcgtcct ttgaacctgt gcaatatgag gccaaattta atctttgagt
+     4081 ctaacacacc actttctgct ttcccgaagt tcagataact gggttggctc tcaattagac
+     4141 caggtagttt gttgcattgc aggtaagtct ggttttgtcc cttccaggag gacatagcct
+     4201 gcaaagctgg ttgtctttac atgaaagcgt ttacatgaga ctttccgact gcttttttga
+     4261 ttctgaagtt cagcatctaa agcagcaggt ctagaagaac aacggtttat tcatacttgc
+     4321 attcttttgg cagttctgat aagcttccta gaaagttctg tgtaaacaga agcctgtttc
+     4381 agaaatctgg agctggcact gtggagacca cacacccttt gggaaagctc ttgtctcttc
+     4441 ttcccccact acctcttatt tatttggtgt ttgcttgaat gctggtacta ttgtgaccac
+     4501 aggctggtgt gtaggtggta aaacctgttc tccataggag ggaaggagca gtcactggga
+     4561 gaggttaccc gagaagcact tgagcatgag gaactgcacc tttaggccat ctcagcttgc
+     4621 tgggcctttt gttaaaccct tctgtctact ggcctccctt tgtgtgcata cgcctcttgt
+     4681 tcatgtcagc ttatatgtga cactgcagca gaaaggctct gaaggtccaa agagtttctg
+     4741 caaagtgtat gtgaccatca tttcccaggc cattagggtt gcctcactgt agcaggttct
+     4801 aggctaccag aagaggggca gctttttcat accaattcca actttcaggg gctgactctc
+     4861 cagggagctg atgtcatcac actctccatg ttagtaatgg cagagcagtc taaacagagt
+     4921 ccgggagaat gctggcaaag gctggctgtg tatacccact aggctgcccc acgtgctccc
+     4981 gagagatgac actagtcaga aaattggcag tggcagagaa tccaaactca acaagtgctc
+     5041 ctgaaagaaa cgctagaagc ctaagaactg tggtctggtg ttccagctga ggcaggggga
+     5101 tttggtagga aggagccagt gaacttggct ttcctgtttc tatctttcat taaaaagaat
+     5161 agaaggattc agtcataaag aggtaaaaaa ctgtcacggt acgaaatctt agtgcccacg
+     5221 gaggcctcga gcagagagaa tgaaagtctt tttttttttt tttttttttt agcatggcaa
+     5281 taaatattct agcatcccta actaaagggg actagacagt tagagactct gtcaccctag
+     5341 ctataccagc agaaaacctg ttcaggcagg ctttctgggt gtgactgatt cccagcctgt
+     5401 ggcagggcgt ggtcccaact actcagccta gcacaggctg gcagttggta ctgaattgtc
+     5461 agatgtggag tattagtgac accacacatt taattcagct ttgtccaaag gaaagcttaa
+     5521 aacccaatac agtctagttt cctggttccg ttttagaaaa ggaaaacgtg aacaaactta
+     5581 gaaagggaag gaaatcccat cagtgaatcc tgaaactggt tttaagtgct ttccttctcc
+     5641 tcatgcccaa gagatctgtg ccatagaaca agataccagg cacttaaagc cttttcctga
+     5701 attggaaagg aaaagaggcc caagtgcaaa agaaaaaaca ttttagaaac ggacagctta
+     5761 taaaaataaa gggaagaaag gaggcagcat ggagagaggc ctgtgctaga agctccatgg
+     5821 acgtgtctgc acagggtcct cagctcatcc atgcggcctg ggtgtccttt tactcagctt
+     5881 tataacaaat gtggctccaa gctcaggtgc ctttgagttc taggaggctg tgggttttat
+     5941 tcaactacgg ttgggagaat gagacctgga gtcatgttga aggtgcccaa cctaaaaatg
+     6001 taggctttca tgttgcaaag aactccagag tcagtagtta ggtttggttt ggttttggac
+     6061 atgataaacc tgccaagagt caacaggtca cttgatcatg ctgcagtggg tagttctaag
+     6121 gatggaaagg tgacagtatt actctcgaga ggcaattcag tcctgggcaa aggtattagt
+     6181 acaataagcg ttaagggcag agtctacctt gaaaccaatt aagcagcttg gtattcataa
+     6241 atattgggat tggatggcct ccatccagaa atcactatgg gtgagcatac ctgtctcagc
+     6301 tgtttggcca atgtgcataa cctactcgga tccccacctg acactaacca gagtcagcac
+     6361 aggccccgag gagcccgaag tctgctgctg tgcagcatgg aattccttta aaaaggtgca
+     6421 ctacagtttt agcggggagg gggataggaa gacgcagagc aaatgagctc cggagtccct
+     6481 gcaggtgaat aaacacacag atctgcatct gatagaactt tgatggattt tcaaaaagcc
+     6541 gttgacaagg ctctgctata cagtctataa aaattgttat tatgggattg gaagaaacac
+     6601 gtggtcatga atagaaaaaa aacaaaccca aaggtaggaa ggtcaaggtc atttcttaga
+     6661 tggagaagtt gtgaaagatg tccttggaga tgagttttag gaccagcatt actaaggcag
+     6721 gtgggcagac agtgacctct ctaggtgtgt ccacagagtt tttcaggaga gaaaactgcc
+     6781 tgacctttgg gactaagctg cggaatcttc ttactaagct tgaagagtgg agaggcgaga
+     6841 ggtgagctac tttgtgagcc aaagcttatg tgacatggtt ggggaaacag tccaaactgt
+     6901 tctgagaagg tgaactgtta cgacccagga caattagaaa aattcaccca ccatgccgca
+     6961 cattactggg taaaagcagg gcagcaggga acaaaactcc agactcttgg gccgtcccca
+     7021 tttgcaacag cacacatagt ttctggtata tttgttggga aagataaaac tctagcagtt
+     7081 gttgagggga ggatgtataa aatggtcatg gggatgaaag gatctctgag accacagagg
+     7141 ctcagactca ctgttaagaa tagaaaactg ggtatgcgtt tcatgtagcc agcagaactg
+     7201 aagtgtgctg tgacaagcca atgtgaattt ctaccaaata gtagagcata ccacttgaag
+     7261 aaggaaagaa ccgaagagca aacaaaagtt ctgcgtaatg agactcacct tttctcgctg
+     7321 aaagcactaa gaggtgggag gaggcctgca caggctggag gagggtttgg gcagagcgaa
+     7381 gacccggcca ggaccttggt gagatggggt gccgcccacc tcctgcggat actcttggag
+     7441 agttgttccc ccagggggct ctgccccacc tggagaagga agctgcctgg tgtggagtga
+     7501 ctcaaatcag tatacctatc tgctgcacct tcactctcca gggtacatgc tttaaaaccg
+     7561 acccgcaaca agtattggaa aaatgtatcc agtctgaaga tgtttgtgta tctgtttaca
+     7621 tccagagttc tgtgacacat gccccccaga ttgctgcaaa gatcccaagg cattgattgc
+     7681 acttgattaa gcttttgtct gtaggtgaaa gaacaagttt aggtcgagga ctggccccta
+     7741 ggctgctgct gtgacccttg tcccatgtgg cttgtttgcc tgtccgggac tcttcgatgt
+     7801 gcccagggga gcgtgttcct gtctcttcca tgccgtcctg cagtccttat ctgctcgcct
+     7861 gagggaagag tagctgtagc tacaagggaa gcctgcctgg aagagccgag cacctgtgcc
+     7921 catggcttct ggtcatgaaa cgagttaatg atggcagagg agcttcctcc ccacttcgca
+     7981 gcgccacatt atccatcctc tgagataagt aggctggttt aaccattgga atggaccttt
+     8041 cagtggaaac cctgagagtc tgagaacccc cagaccaacc cttccctccc tttccccacc
+     8101 tcttacagtg tttggacagg agggtatggt gctgctctgt gtagcaagta ctttggctta
+     8161 tgaaagaggc agccacgcat tttgcactag gaagaatcag taatcacttt tcagaagact
+     8221 tctatggacc acaaatatat tacggaggaa cagattttgc taagacataa tctagtttta
+     8281 taactcaatc atgaatgaac catgtgtggc aaacttgcag tttaaagggg tcccatcagt
+     8341 gaaagaaact gatttttttt aacggactgc ttttagttaa attgaagaaa gtcagctctt
+     8401 gtcaaaaggt ctaaactttc ccgcctcaat cctaaaagca tgtcaacaat ccacatcaga
+     8461 tgccataaat atgaactgca ggataaaatg gtacaatctt agtgaatggg aattggaatc
+     8521 aaaagagttt gctgtccttc ttagaatgtt ctaaaatgtc aaggcagttg cttgtgttta
+     8581 actgtgaaca aataaaaatt tattgttttg cactacaaaa aaaaaa
+//
+
