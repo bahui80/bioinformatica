@@ -15,6 +15,7 @@ while($i != $numArgs) {
 	
 	while($sequence = $inputFiles[$i]->next_seq()) {
 		
+		# Extracted from http://doc.bioperl.org/releases/bioperl-1.5.1/Bio/Perl.html
 		# If the computer has Internet accessibility, blasts the sequence using the NCBI BLAST server against nrdb.
 		$blast = blast_sequence($sequence);
 		
